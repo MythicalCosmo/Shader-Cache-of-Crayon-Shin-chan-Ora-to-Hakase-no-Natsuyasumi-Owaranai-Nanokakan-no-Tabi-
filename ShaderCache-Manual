@@ -1,0 +1,10 @@
+To run this! You need YUZU emulator!
+
+Lag Fix Guide:
+Setting:
+Limit Speed Percent = False
+Multicore CPU Emulation = True
+CPU>Accuracy>Unsafe
+
+Where To Paste:
+Paste the ```open.bin``` file in ```AppData\Roaming\yuzu\shader\01005ba00f486000```
