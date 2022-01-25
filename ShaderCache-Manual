@@ -8,3 +8,17 @@ CPU>Accuracy>Unsafe
 
 Where To Paste:
 Paste the ```open.bin``` file in ```AppData\Roaming\yuzu\shader\01005ba00f486000```
+
+___________________________________
+
+日本
+これを実行するには！ YUZUエミュレータが必要です！
+
+ラグ修正ガイド：
+設定：
+制限速度パーセント= False
+マルチコアCPUエミュレーション= True
+CPU>精度>安全でない
+
+貼り付ける場所：
+貼り付けます ```open.bin``` のファイル ```AppData\Roaming\yuzu\shader\01005ba00f486000```
